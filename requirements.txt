@@ -6,4 +6,4 @@ xgboost
 matplotlib
 streamlit
 seaborn
-
+plotly

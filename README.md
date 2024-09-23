@@ -66,8 +66,8 @@ The analysis reveals distinct customer segments characterized by various demogra
 ## Conclusion
 Customer segmentation using K-Means clustering provides valuable insights into customer behavior. This approach enables businesses to optimize marketing strategies and improve customer engagement.
 
-## Complaint
-incase of any complaint,pls free feel to reach me out on my email address @ chibuezechizobafavour@gmail.com.
+## Help/Complaint
+Incase of any complaint or help,pls free feel to reach me out on my email address @ chibuezechizobafavour@gmail.com.
 ```
 
 Feel free to modify any sections to better fit your project specifics or add additional details that may be relevant!

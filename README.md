@@ -1,8 +1,8 @@
 
 ```markdown
-# Customer Segmentation Using K-Means Clustering
+ Customer Segmentation Using K-Means Clustering
 
-## Table of Contents
+ Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)

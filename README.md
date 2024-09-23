@@ -1,7 +1,7 @@
 
 ```markdown
-** Customer Segmentation Using K-Means Clustering
-**
+##Customer Segmentation Using K-Means Clustering
+
  **Table of Contents**
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -12,7 +12,7 @@
 - [Conclusion](#conclusion)
 - [Complaint](#link)
 
-** Project Overview**
+## Project Overview
 This project aims to segment customers into distinct groups based on purchasing behavior using K-Means clustering. By analyzing customer data, businesses can tailor marketing strategies, improve customer satisfaction, and enhance product offerings.
 
 **Technologies Used**

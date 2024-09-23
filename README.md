@@ -1,8 +1,8 @@
 
 ```markdown
-##Customer Segmentation Using K-Means Clustering
+## Customer Segmentation Using K-Means Clustering
 
- **Table of Contents**
+ ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
@@ -15,7 +15,7 @@
 ## Project Overview
 This project aims to segment customers into distinct groups based on purchasing behavior using K-Means clustering. By analyzing customer data, businesses can tailor marketing strategies, improve customer satisfaction, and enhance product offerings.
 
-**Technologies Used**
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -23,7 +23,7 @@ This project aims to segment customers into distinct groups based on purchasing 
 - Scikit-learn
 - Jupyter Notebook
 
-** Dataset**
+## Dataset
 The dataset used for this project is sourced from [Kaggle,Mall Customers.csv]. It contains customer details including:
 - Customer ID
 - Age
@@ -31,7 +31,7 @@ The dataset used for this project is sourced from [Kaggle,Mall Customers.csv]. I
 - Annual Income
 - Spending Score
 
-**Installation**
+## Installation
 To run this project locally, follow these steps:
 
 1. Clone the repository:
